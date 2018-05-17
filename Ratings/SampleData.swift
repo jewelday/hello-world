@@ -14,7 +14,7 @@ final class SampleData{
         return[
             Player(name: "Bill Evans", game: "Tic-Tac-Toe", rating: 4),
             Player(name: "Oscar Peterson", game: "Spin the Bottle", rating: 5),
-            Player(name: "Dae Burbeck", game: "Texas Hold 'em", rating: 2)
+            Player(name: "Dave Burbeck", game: "Texas Hold 'em", rating: 2)
         ]
     }
 }
